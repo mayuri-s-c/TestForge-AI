@@ -1,4 +1,4 @@
-# AI Automation
+# TestForge AI [AI Automation]
 
 An AI-powered test automation platform that reads test cases from Excel spreadsheets, executes them using Playwright browser automation, evaluates results with OpenAI or Google Gemini, and produces updated reports with screenshots.
 
